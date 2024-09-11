@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-Movie Recommendation System 
+This machine learning project aimed to develop a robust movie recommendation system. By implementing an Item-Based Collaborative Filtering algorithm, the project successfully demonstrated the application of R programming, data science principles, and machine learning techniques in a real-world context. The project's primary objective was to enhance user experience by providing personalized movie suggestions based on historical viewing patterns.
